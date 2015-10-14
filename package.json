@@ -1,0 +1,17 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "slack bot",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "slackbot": "0.0.2",
+    "body-parser": "^1.x.x"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "hello"
+  },
+  "author": "Jerry Murray",
+  "license": "ISC"
+}
